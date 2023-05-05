@@ -1,0 +1,234 @@
+[
+  {
+    "id": "1",
+    "index": 0,
+    "chef_picture": "https://i.imgur.com/yMqQ1yd.jpg",
+    "experience": 2,
+    "bio": "Meet Chef Tony Khan, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Tony Khan worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "6451038686d2b95538947c2c",
+        "index": 1,
+        "Ingredients": "1 kg basmati rice, 1 kg tender goat meat (with bones), 3 cups plain yogurt, 2 cups thinly sliced onions, 1 cup clarified butter (ghee), 2 tbsp ginger paste, 2 tbsp garlic paste, 2 tbsp cumin powder, etc",
+        "food_picture": "https://i.ytimg.com/vi/KgFZZes4DgE/maxresdefault.jpg",
+        "details": "Cooking Kacchi Biriyani is a multi-step process that requires time and attention to detail. The dish is traditionally cooked in a sealed pot over a low flame, which allows the flavors to infuse into the rice. To start, basmati rice is washed and soaked for at least 30 minutes. Meanwhile, the meat (usually goat or beef) is marinated in yogurt and a blend of aromatic spices such as cumin, cardamom, cinnamon, and bay leaves. The rice and meat are then layered in a pot, with the rice forming the top layer. The pot is sealed with dough or aluminum foil to trap in the steam and flavor, and cooked over a low flame for about an hour until the rice is tender and the meat is cooked through. Once done, the pot is opened and the biriyani is garnished with fried",
+        "food_name": "Kacchi Biriyani"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "Ingredients": "1 whole chicken (about 2-3 pounds), 2-3 tablespoons of butter or olive oil, 2-3 cloves of garlic, minced, 1 tablespoon of dried herbs (such as thyme, rosemary, or sage), Salt and black pepper, to taste, etc",
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a delicious and flavorful dish that is popular in many cuisines around the world, including Bangladesh. To make chicken roast, a whole chicken is marinated in a blend of aromatic spices such as ginger, garlic, cumin, coriander, and turmeric, as well as yogurt and lemon juice. The chicken is then roasted in the oven or on a grill until it is golden brown and cooked through. The result is a tender and juicy chicken with a crispy, flavorful skin. Chicken roast is often served with a side of roasted or sautéed vegetables, and can be enjoyed as a main course for lunch or dinner. It is a perfect dish for special occasions or a hearty family meal.",
+        "food_name": "Chicken roast"
+      },
+      {
+        "id": "6451038686d2b538947c2c01",
+        "index": 6,
+        "Ingredients": "1 kg beef, cut into medium-sized pieces, 3 cups of basmati rice, 4 onions, finely sliced, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 2 tablespoons of vegetable oil, 2 teaspoons of cumin powder, etc",
+        "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+        "details": "Beef Tehari is a popular Bangladeshi rice dish that is flavorful and easy to make. To prepare it, start by marinating chunks of beef with a blend of spices such as turmeric, cumin, coriander, and ginger-garlic paste. Then, fry the beef in a pan until it is browned and set it aside. In the same pan, fry sliced onions, green chilies, and whole spices such as bay leaves and cardamom until fragrant. Add the beef back into the pan along with sliced potatoes and carrots. Pour in enough water to cover the mixture and bring it to a boil. Add in basmati rice and cook until the rice is tender and the liquid is absorbed. Finally, garnish the dish with fresh cilantro and serve hot. The result is a delicious, aromatic one-pot meal that is perfect for a hearty lunch or dinner.",
+        "food_name": "Beef Tehari"
+      }
+    ],
+    "likes": 25,
+    "chef_name": "Tony Khan",
+    "recipes_number": 3
+  },
+  {
+    "id": "2",
+    "index": 1,
+    "chef_picture": "https://i.imgur.com/aW39p0w.jpg",
+    "experience": 7,
+    "bio": "Meet Chef Munshi Ahmed, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Munshi Ahmed worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64510686d2b95538947c2c",
+        "index": 2,
+        "Ingredients": "1 pound boneless, skinless chicken thighs or breasts, 1/2 cup plain Greek yogurt, 1 tablespoon fresh lemon juice, 2 teaspoons minced garlic, 2 teaspoons minced ginger, 1 1/2 teaspoons ground cumin, 1 1/2 teaspoons paprika, etc",
+        "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+        "details": "Chicken tikka is a popular South Asian dish that is often served as an appetizer or as a main course. To make chicken tikka, boneless chicken pieces are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and garam masala. The marinated chicken is then skewered and cooked in a tandoor oven or on a grill. As the chicken cooks, it develops a crispy exterior and a tender, juicy interior. Chicken tikka can be served with a side of mint chutney or raita, and is often accompanied by rice or naan bread. With its spicy and flavorful taste, chicken tikka is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Chicken tikka"
+      },
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "Ingredients": "4 lamb chops, 2 cloves of garlic, minced, 1 tablespoon fresh rosemary, chopped, 1 tablespoon fresh thyme, chopped, 1 tablespoon olive oil, Salt and pepper to taste",
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are typically seasoned with a blend of aromatic spices such as cumin, coriander, paprika, and garlic powder. The chops are then pan-seared in a hot skillet or grilled over medium-high heat for 3-4 minutes per side, until they are cooked to the desired level of doneness. To enhance the flavor and tenderness, a brush of melted butter or oil can be applied to the chops while cooking. Once the chops are cooked, they should be allowed to rest for a few minutes before serving to allow the juices to redistribute throughout the meat. Lamb chops can be served with a variety of sides, such as roasted vegetables or mashed potatoes, and are a delicious and elegant dish that can be enjoyed on special occasions or as a gourmet weeknight dinner.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "6451038686d2b538947c2c01",
+        "index": 6,
+        "Ingredients": "1 kg beef, cut into medium-sized pieces, 3 cups of basmati rice, 4 onions, finely sliced, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 2 tablespoons of vegetable oil, 2 teaspoons of cumin powder, etc",
+        "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+        "details": "Beef Tehari is a popular Bangladeshi rice dish that is flavorful and easy to make. To prepare it, start by marinating chunks of beef with a blend of spices such as turmeric, cumin, coriander, and ginger-garlic paste. Then, fry the beef in a pan until it is browned and set it aside. In the same pan, fry sliced onions, green chilies, and whole spices such as bay leaves and cardamom until fragrant. Add the beef back into the pan along with sliced potatoes and carrots. Pour in enough water to cover the mixture and bring it to a boil. Add in basmati rice and cook until the rice is tender and the liquid is absorbed. Finally, garnish the dish with fresh cilantro and serve hot. The result is a delicious, aromatic one-pot meal that is perfect for a hearty lunch or dinner.",
+        "food_name": "Beef Tehari"
+      }
+    ],
+    "likes": 61,
+    "chef_name": "Munshi Ahmed",
+    "recipes_number": 3
+  },
+  {
+    "id": "3",
+    "index": 2,
+    "chef_picture": "https://i.imgur.com/XGeV0o7.jpg",
+    "experience": 3,
+    "bio": "Meet Chef Ziaul Karim, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Ziaul Karim worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "6451038686d2b95538947c2c",
+        "index": 1,
+        "Ingredients": "1 kg basmati rice, 1 kg tender goat meat (with bones), 3 cups plain yogurt, 2 cups thinly sliced onions, 1 cup clarified butter (ghee), 2 tbsp ginger paste, 2 tbsp garlic paste, 2 tbsp cumin powder, etc",
+        "food_picture": "https://i.ytimg.com/vi/KgFZZes4DgE/maxresdefault.jpg",
+        "details": "Cooking Kacchi Biriyani is a multi-step process that requires time and attention to detail. The dish is traditionally cooked in a sealed pot over a low flame, which allows the flavors to infuse into the rice. To start, basmati rice is washed and soaked for at least 30 minutes. Meanwhile, the meat (usually goat or beef) is marinated in yogurt and a blend of aromatic spices such as cumin, cardamom, cinnamon, and bay leaves. The rice and meat are then layered in a pot, with the rice forming the top layer. The pot is sealed with dough or aluminum foil to trap in the steam and flavor, and cooked over a low flame for about an hour until the rice is tender and the meat is cooked through. Once done, the pot is opened and the biriyani is garnished with fried",
+        "food_name": "Kacchi Biriyani"
+      },
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "Ingredients": "4 lamb chops, 2 cloves of garlic, minced, 1 tablespoon fresh rosemary, chopped, 1 tablespoon fresh thyme, chopped, 1 tablespoon olive oil, Salt and pepper to taste",
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are typically seasoned with a blend of aromatic spices such as cumin, coriander, paprika, and garlic powder. The chops are then pan-seared in a hot skillet or grilled over medium-high heat for 3-4 minutes per side, until they are cooked to the desired level of doneness. To enhance the flavor and tenderness, a brush of melted butter or oil can be applied to the chops while cooking. Once the chops are cooked, they should be allowed to rest for a few minutes before serving to allow the juices to redistribute throughout the meat. Lamb chops can be served with a variety of sides, such as roasted vegetables or mashed potatoes, and are a delicious and elegant dish that can be enjoyed on special occasions or as a gourmet weeknight dinner.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "Ingredients": "1 whole chicken (about 2-3 pounds), 2-3 tablespoons of butter or olive oil, 2-3 cloves of garlic, minced, 1 tablespoon of dried herbs (such as thyme, rosemary, or sage), Salt and black pepper, to taste, etc",
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a delicious and flavorful dish that is popular in many cuisines around the world, including Bangladesh. To make chicken roast, a whole chicken is marinated in a blend of aromatic spices such as ginger, garlic, cumin, coriander, and turmeric, as well as yogurt and lemon juice. The chicken is then roasted in the oven or on a grill until it is golden brown and cooked through. The result is a tender and juicy chicken with a crispy, flavorful skin. Chicken roast is often served with a side of roasted or sautéed vegetables, and can be enjoyed as a main course for lunch or dinner. It is a perfect dish for special occasions or a hearty family meal.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 57,
+    "chef_name": "Ziaul Karim",
+    "recipes_number": 3
+  },
+  {
+    "id": "4",
+    "index": 3,
+    "chef_picture": "https://i.imgur.com/YAqfp84.jpg",
+    "experience": 4,
+    "bio": "Meet Chef Kamal Ahmed, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Kamal Ahmed worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64510686d2b95538947c2c",
+        "index": 2,
+        "Ingredients": "1 pound boneless, skinless chicken thighs or breasts, 1/2 cup plain Greek yogurt, 1 tablespoon fresh lemon juice, 2 teaspoons minced garlic, 2 teaspoons minced ginger, 1 1/2 teaspoons ground cumin, 1 1/2 teaspoons paprika, etc",
+        "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+        "details": "Chicken tikka is a popular South Asian dish that is often served as an appetizer or as a main course. To make chicken tikka, boneless chicken pieces are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and garam masala. The marinated chicken is then skewered and cooked in a tandoor oven or on a grill. As the chicken cooks, it develops a crispy exterior and a tender, juicy interior. Chicken tikka can be served with a side of mint chutney or raita, and is often accompanied by rice or naan bread. With its spicy and flavorful taste, chicken tikka is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Chicken tikka"
+      },
+      {
+        "id": "6451038686d2b9553847clc5",
+        "index": 4,
+        "Ingredients": "Goat meat: 1-1.5 pounds, Onion: 1 medium-sized, finely chopped, Garlic: 4-5 cloves, finely chopped, Ginger: 1 inch piece, grated or finely chopped, Tomatoes: 2 medium-sized, chopped, Green chilies: 2-3, finely chopped, Yogurt: 1/4 cup, etc",
+        "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+        "details": "Goat curry is a popular dish in many countries, including Bangladesh. The dish is made by cooking tender pieces of goat meat in a flavorful sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. Onions, garlic, and ginger are sautéed in oil until golden brown, then the spices are added to create a fragrant base. The goat meat is then added to the sauce and cooked until it is tender and falling off the bone. The dish is typically served with steamed rice or flatbread, and is a hearty and satisfying meal. Goat curry is a must-try for anyone who loves the rich and complex flavors of South Asian cuisine.",
+        "food_name": "Goat curry"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "Ingredients": "1 whole chicken (about 2-3 pounds), 2-3 tablespoons of butter or olive oil, 2-3 cloves of garlic, minced, 1 tablespoon of dried herbs (such as thyme, rosemary, or sage), Salt and black pepper, to taste, etc",
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a delicious and flavorful dish that is popular in many cuisines around the world, including Bangladesh. To make chicken roast, a whole chicken is marinated in a blend of aromatic spices such as ginger, garlic, cumin, coriander, and turmeric, as well as yogurt and lemon juice. The chicken is then roasted in the oven or on a grill until it is golden brown and cooked through. The result is a tender and juicy chicken with a crispy, flavorful skin. Chicken roast is often served with a side of roasted or sautéed vegetables, and can be enjoyed as a main course for lunch or dinner. It is a perfect dish for special occasions or a hearty family meal.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 48,
+    "chef_name": "Kamal Ahmed",
+    "recipes_number": 3
+  },
+  {
+    "id": "5",
+    "index": 4,
+    "chef_picture": "https://i.imgur.com/otTrKOx.jpg",
+    "experience": 9,
+    "bio": "Meet Chef Ishtiaque Hossain, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Ishtiaque Hossain worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "Ingredients": "4 lamb chops, 2 cloves of garlic, minced, 1 tablespoon fresh rosemary, chopped, 1 tablespoon fresh thyme, chopped, 1 tablespoon olive oil, Salt and pepper to taste",
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are typically seasoned with a blend of aromatic spices such as cumin, coriander, paprika, and garlic powder. The chops are then pan-seared in a hot skillet or grilled over medium-high heat for 3-4 minutes per side, until they are cooked to the desired level of doneness. To enhance the flavor and tenderness, a brush of melted butter or oil can be applied to the chops while cooking. Once the chops are cooked, they should be allowed to rest for a few minutes before serving to allow the juices to redistribute throughout the meat. Lamb chops can be served with a variety of sides, such as roasted vegetables or mashed potatoes, and are a delicious and elegant dish that can be enjoyed on special occasions or as a gourmet weeknight dinner.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "6451038686d2b9553847clc5",
+        "index": 4,
+        "Ingredients": "Goat meat: 1-1.5 pounds, Onion: 1 medium-sized, finely chopped, Garlic: 4-5 cloves, finely chopped, Ginger: 1 inch piece, grated or finely chopped, Tomatoes: 2 medium-sized, chopped, Green chilies: 2-3, finely chopped, Yogurt: 1/4 cup, etc",
+        "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+        "details": "Goat curry is a popular dish in many countries, including Bangladesh. The dish is made by cooking tender pieces of goat meat in a flavorful sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. Onions, garlic, and ginger are sautéed in oil until golden brown, then the spices are added to create a fragrant base. The goat meat is then added to the sauce and cooked until it is tender and falling off the bone. The dish is typically served with steamed rice or flatbread, and is a hearty and satisfying meal. Goat curry is a must-try for anyone who loves the rich and complex flavors of South Asian cuisine.",
+        "food_name": "Goat curry"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "Ingredients": "1 whole chicken (about 2-3 pounds), 2-3 tablespoons of butter or olive oil, 2-3 cloves of garlic, minced, 1 tablespoon of dried herbs (such as thyme, rosemary, or sage), Salt and black pepper, to taste, etc",
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a delicious and flavorful dish that is popular in many cuisines around the world, including Bangladesh. To make chicken roast, a whole chicken is marinated in a blend of aromatic spices such as ginger, garlic, cumin, coriander, and turmeric, as well as yogurt and lemon juice. The chicken is then roasted in the oven or on a grill until it is golden brown and cooked through. The result is a tender and juicy chicken with a crispy, flavorful skin. Chicken roast is often served with a side of roasted or sautéed vegetables, and can be enjoyed as a main course for lunch or dinner. It is a perfect dish for special occasions or a hearty family meal.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 36,
+    "chef_name": "Ishtiaque Hossain",
+    "recipes_number": 3
+  },
+  {
+    "id": "6",
+    "index": 5,
+    "chef_picture": "https://i.imgur.com/VJvPUld.jpg",
+    "experience": 5,
+    "bio": "Meet Chef Sajib Datta, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Sajib Datta worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64510686d2b95538947c2c",
+        "index": 2,
+        "Ingredients": "1 pound boneless, skinless chicken thighs or breasts, 1/2 cup plain Greek yogurt, 1 tablespoon fresh lemon juice, 2 teaspoons minced garlic, 2 teaspoons minced ginger, 1 1/2 teaspoons ground cumin, 1 1/2 teaspoons paprika, etc",
+        "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+        "details": "Chicken tikka is a popular South Asian dish that is often served as an appetizer or as a main course. To make chicken tikka, boneless chicken pieces are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and garam masala. The marinated chicken is then skewered and cooked in a tandoor oven or on a grill. As the chicken cooks, it develops a crispy exterior and a tender, juicy interior. Chicken tikka can be served with a side of mint chutney or raita, and is often accompanied by rice or naan bread. With its spicy and flavorful taste, chicken tikka is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Chicken tikka"
+      },
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "Ingredients": "4 lamb chops, 2 cloves of garlic, minced, 1 tablespoon fresh rosemary, chopped, 1 tablespoon fresh thyme, chopped, 1 tablespoon olive oil, Salt and pepper to taste",
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are typically seasoned with a blend of aromatic spices such as cumin, coriander, paprika, and garlic powder. The chops are then pan-seared in a hot skillet or grilled over medium-high heat for 3-4 minutes per side, until they are cooked to the desired level of doneness. To enhance the flavor and tenderness, a brush of melted butter or oil can be applied to the chops while cooking. Once the chops are cooked, they should be allowed to rest for a few minutes before serving to allow the juices to redistribute throughout the meat. Lamb chops can be served with a variety of sides, such as roasted vegetables or mashed potatoes, and are a delicious and elegant dish that can be enjoyed on special occasions or as a gourmet weeknight dinner.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "6451038686d2b9553847clc5",
+        "index": 4,
+        "Ingredients": "Goat meat: 1-1.5 pounds, Onion: 1 medium-sized, finely chopped, Garlic: 4-5 cloves, finely chopped, Ginger: 1 inch piece, grated or finely chopped, Tomatoes: 2 medium-sized, chopped, Green chilies: 2-3, finely chopped, Yogurt: 1/4 cup, etc",
+        "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+        "details": "Goat curry is a popular dish in many countries, including Bangladesh. The dish is made by cooking tender pieces of goat meat in a flavorful sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. Onions, garlic, and ginger are sautéed in oil until golden brown, then the spices are added to create a fragrant base. The goat meat is then added to the sauce and cooked until it is tender and falling off the bone. The dish is typically served with steamed rice or flatbread, and is a hearty and satisfying meal. Goat curry is a must-try for anyone who loves the rich and complex flavors of South Asian cuisine.",
+        "food_name": "Goat curry"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "Ingredients": "1 whole chicken (about 2-3 pounds), 2-3 tablespoons of butter or olive oil, 2-3 cloves of garlic, minced, 1 tablespoon of dried herbs (such as thyme, rosemary, or sage), Salt and black pepper, to taste, etc",
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a delicious and flavorful dish that is popular in many cuisines around the world, including Bangladesh. To make chicken roast, a whole chicken is marinated in a blend of aromatic spices such as ginger, garlic, cumin, coriander, and turmeric, as well as yogurt and lemon juice. The chicken is then roasted in the oven or on a grill until it is golden brown and cooked through. The result is a tender and juicy chicken with a crispy, flavorful skin. Chicken roast is often served with a side of roasted or sautéed vegetables, and can be enjoyed as a main course for lunch or dinner. It is a perfect dish for special occasions or a hearty family meal.",
+        "food_name": "Chicken roast"
+      },
+      {
+        "id": "6451038686d2b538947c2c01",
+        "index": 6,
+        "Ingredients": "1 kg beef, cut into medium-sized pieces, 3 cups of basmati rice, 4 onions, finely sliced, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 2 tablespoons of vegetable oil, 2 teaspoons of cumin powder, etc",
+        "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+        "details": "Beef Tehari is a popular Bangladeshi rice dish that is flavorful and easy to make. To prepare it, start by marinating chunks of beef with a blend of spices such as turmeric, cumin, coriander, and ginger-garlic paste. Then, fry the beef in a pan until it is browned and set it aside. In the same pan, fry sliced onions, green chilies, and whole spices such as bay leaves and cardamom until fragrant. Add the beef back into the pan along with sliced potatoes and carrots. Pour in enough water to cover the mixture and bring it to a boil. Add in basmati rice and cook until the rice is tender and the liquid is absorbed. Finally, garnish the dish with fresh cilantro and serve hot. The result is a delicious, aromatic one-pot meal that is perfect for a hearty lunch or dinner.",
+        "food_name": "Beef Tehari"
+      }
+    ],
+    "likes": 89,
+    "chef_name": "Sajib Datta",
+    "recipes_number": 6
+  }
+]
